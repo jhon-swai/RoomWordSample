@@ -1,3 +1,5 @@
+package com.example.roomwordsample;
+
 import android.content.Context;
 
 import androidx.room.Database;
